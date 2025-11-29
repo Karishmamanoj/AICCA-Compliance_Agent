@@ -1,0 +1,13 @@
+{"ts": "2025-11-29T18:49:21.609893Z", "trace_id": "9761eed5-039e-458f-9e24-77fd5b16ceaa", "component": "main", "level": "info", "message": "Starting audit run", "extra": {}}
+{"ts": "2025-11-29T18:55:10.310923Z", "trace_id": "865f3d89-db42-464e-bf86-8108bec981ec", "component": "main", "level": "info", "message": "Starting audit run", "extra": {}}
+{"ts": "2025-11-29T18:55:10.313012Z", "trace_id": "865f3d89-db42-464e-bf86-8108bec981ec", "component": "supervisor", "level": "info", "message": "Supervisor started audit", "extra": {}}
+{"ts": "2025-11-29T18:55:10.314040Z", "trace_id": "865f3d89-db42-464e-bf86-8108bec981ec", "component": "policy_reader", "level": "info", "message": "Extracted 7 rules", "extra": {}}
+{"ts": "2025-11-29T18:55:10.315128Z", "trace_id": "865f3d89-db42-464e-bf86-8108bec981ec", "component": "compliance_checker", "level": "info", "message": "Compliance check finished", "extra": {}}
+{"ts": "2025-11-29T18:55:10.316203Z", "trace_id": "865f3d89-db42-464e-bf86-8108bec981ec", "component": "supervisor", "level": "info", "message": "Supervisor finished audit", "extra": {}}
+{"ts": "2025-11-29T18:55:10.317212Z", "trace_id": "865f3d89-db42-464e-bf86-8108bec981ec", "component": "main", "level": "info", "message": "Audit completed", "extra": {}}
+{"ts": "2025-11-29T18:55:42.223330Z", "trace_id": "af8e8c06-f025-4ff4-adfa-53f9b59e7c0a", "component": "main", "level": "info", "message": "Starting audit run", "extra": {}}
+{"ts": "2025-11-29T18:55:42.225688Z", "trace_id": "af8e8c06-f025-4ff4-adfa-53f9b59e7c0a", "component": "supervisor", "level": "info", "message": "Supervisor started audit", "extra": {}}
+{"ts": "2025-11-29T18:55:42.226704Z", "trace_id": "af8e8c06-f025-4ff4-adfa-53f9b59e7c0a", "component": "policy_reader", "level": "info", "message": "Extracted 7 rules", "extra": {}}
+{"ts": "2025-11-29T18:55:42.226704Z", "trace_id": "af8e8c06-f025-4ff4-adfa-53f9b59e7c0a", "component": "compliance_checker", "level": "info", "message": "Compliance check finished", "extra": {}}
+{"ts": "2025-11-29T18:55:42.227747Z", "trace_id": "af8e8c06-f025-4ff4-adfa-53f9b59e7c0a", "component": "supervisor", "level": "info", "message": "Supervisor finished audit", "extra": {}}
+{"ts": "2025-11-29T18:55:42.229759Z", "trace_id": "af8e8c06-f025-4ff4-adfa-53f9b59e7c0a", "component": "main", "level": "info", "message": "Audit completed", "extra": {}}
